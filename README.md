@@ -11,3 +11,7 @@ Practice using multiple RESTful APIs in a single program. Implements exponential
 
 # Project Report #
 https://github.com/JS1936/BikeRide-ConsultThreeRESTfulAPIs-Java-uwb/blob/main/CSS436_P2_Documentation.pdf
+
+
+### Upcoming ###
+- Remove extra jar(s) and verify still functioning properly
